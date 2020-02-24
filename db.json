@@ -3,31 +3,31 @@
     {
       "id": 1,
       "bookname": "Harry Potter and the Prisoner of Azkaban",
-      "authorname": "JK Rowling",
+      "authorname": "J.K. Rowling",
       "publisher": "YKY"
     },
     {
       "id": 2,
-      "bookname": "Harry Potter and the Prisoner of Azkaban",
-      "authorname": "JK Rowling",
+      "bookname": "Harry Potter and the Half-Blood Prince",
+      "authorname": "J.K. Rowling",
       "publisher": "YKY"
     },
     {
       "id": 3,
       "bookname": "Harry Potter and the Chamber of Secrets",
-      "authorname": "JK Rowling",
+      "authorname": "J.K. Rowling",
       "publisher": "YKY"
     },
      {
       "id": 4,
       "bookname": "Harry Potter and the Order of Phoenix",
-      "authorname": "JK Rowling",
+      "authorname": "J.K. Rowling",
       "publisher": "YKY"
     },
      {
       "id": 5,
       "bookname": "Harry Potter and the Goblet of Fire",
-      "authorname": "JK Rowling",
+      "authorname": "J.K. Rowling",
       "publisher": "YKY"
     },
      {
