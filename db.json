@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "bookname": "Harry Potter and the Prisoner of Azkaban",
+    "authorname": "JK Rowling",
+    "publisher": "YKY",
+  },
+  {
+    "id": 2,
+    "bookname": "Harry Potter and the Prisoner of Azkaban",
+    "authorname": "JK Rowling",
+    "publisher": "YKY",
+  },
+  {
+    "id": 3,
+    "bookname": "Harry Potter and the Chamber of Secrets",
+    "authorname": "JK Rowling",
+    "publisher": "YKY",
+  },
+   {
+    "id": 4,
+    "bookname": "Harry Potter and the Order of Phoenix",
+    "authorname": "JK Rowling",
+    "publisher": "YKY",
+  },
+   {
+    "id": 5,
+    "bookname": "Harry Potter and the Goblet of Fire",
+    "authorname": "JK Rowling",
+    "publisher": "YKY",
+  },
+   {
+    "id": 6,
+    "bookname": "The Great Gatsby",
+    "authorname": "F. Scott Fitzgerald",
+    "publisher": "Amazon",
+  },
+   {
+    "id": 7,
+    "bookname": "To Kill a Mockingbird",
+    "authorname": "Harper Lee",
+    "publisher": "Amazon",
+  },
+   {
+    "id": 8,
+    "bookname": "1984",
+    "authorname": "George Orwell",
+    "publisher": "Signet Classic",
+  },
+   {
+    "id": 9,
+    "bookname": "Pride and Prejudice",
+    "authorname": "Jane Austen",
+    "publisher": "Penguin English Library",
+  }
+]
